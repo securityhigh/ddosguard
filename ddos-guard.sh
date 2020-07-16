@@ -1,4 +1,4 @@
-#/bin/bash
+#!/bin/bash
 
 sudo iptables -I INPUT -p tcp --dport 80 -s 0.0.0.0/0 -j DROP
 sudo iptables -I INPUT -p tcp --dport 443 -s 0.0.0.0/0 -j DROP
