@@ -1,5 +1,5 @@
 ###### ddosguard.sh
-Connection only from ddos-guard.net on your server.
+Connection only from ddos-guard.net on your server
 
 
 ###### syn-guard.sh
