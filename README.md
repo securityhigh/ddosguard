@@ -2,6 +2,10 @@
 Connection only from ddos-guard.net on your server
 
 
+##### cloudflare.sh
+Connection only from cloudflare.com on your server
+
+
 ###### syn-guard.sh
 Setting **/proc/sys/net/** for Anti SYN-flood
 
