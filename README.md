@@ -16,3 +16,6 @@ Setting iptables for Anti SYN-flood
 
 ###### net.sh
 View real-time count connections on ports
+
+###### disable-ping.sh
+Disable response on ICMP packets in your server.
