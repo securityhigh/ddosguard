@@ -17,5 +17,18 @@ Setting iptables for Anti SYN-flood
 ###### net.sh
 View real-time count connections on ports
 
+
 ###### disable-ping.sh
-Disable response on ICMP packets in your server.
+Disable response on ICMP packets in your server
+
+
+###### clearlog.sh
+Clear all logs on your server
+
+
+###### dump.sh
+Create backup MySQL database and site files
+
+
+###### nginx-xenforo-config.conf
+Nginx config for XenForo Forum, Tor-site or any other site
