@@ -32,3 +32,11 @@ Create backup MySQL database and site files
 
 ###### nginx-xenforo-config.conf
 Nginx config for XenForo Forum, Tor-site or any other site
+
+
+###### flask_install.sh
+Flask && uWSGI && Nginx auto installation.
+
+from user: sudo **./flask_install.sh [project_name] [your_user] [domain]**
+
+with install need packets: **sudo ./flask_install.sh [project_name] [your_user] [domain] install**
